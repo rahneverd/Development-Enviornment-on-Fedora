@@ -66,3 +66,13 @@ Guide to setting up development enviornment on Fedora
   dnf check-update
   sudo dnf install code
   
+05) Installing nodejs
+  sudo dnf install nodejs
+  
+06) Installing expo (for react native)
+  npm install --global expo-cli
+  
+8) Installing wine and setting up office
+  
+  
+  
